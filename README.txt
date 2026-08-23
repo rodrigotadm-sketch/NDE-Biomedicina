@@ -1,1 +1,4 @@
-Publique index.html, styles.css, app.js e nde.json na raiz de um repositório público no GitHub Pages. Atualize principalmente nde.json. Campos por membro: name, role, department, email, lattes, mandate e status.
+NDE-Biomedicina V2
+Ordem da página: Composição atual → O que é o NDE → Principais atribuições → Histórico → Documentos e normas.
+Cor predominante: verde.
+Edite nde.json para atualizar nomes, e-mails, Lattes, mandato, departamento e situação.
