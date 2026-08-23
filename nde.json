@@ -5,12 +5,12 @@
   "intro": "Conforme as Resoluções nº 75/09 e 34/11 do Conselho de Ensino, Pesquisa e Extensão (CEPE/UFPR), o Núcleo Docente Estruturante (NDE) é um órgão consultivo e propositivo, corresponsável pela elaboração, implementação e consolidação do Projeto Pedagógico do Curso de Biomedicina.",
    "members": [
     {
-      "name": "Jaqueline Carvalho de Oliveira",
+      "name": "Camila Marcon",
       "role": "Coordenadora",
-      "department": "Genética / Coordenação do Curso",
-      "email": "jaqueline.carvalho@ufpr.br",
-      "lattes": "http://lattes.cnpq.br/8730828720954911",
-      "mandate": "",
+      "department": " Patologia Básica/ Coordenação do Curso",
+      "email": "marconi@ufpr.br",
+      "lattes": "http://lattes.cnpq.br/2439951126870898",
+      "mandate": "2026",
       "status": "Atual"
     },
     {
@@ -19,7 +19,7 @@
       "department": "Análises Clínicas",
       "email": "rego@ufpr.br",
       "lattes": "http://lattes.cnpq.br/2041345461058971",
-      "mandate": "",
+      "mandate": "2026",
       "status": "Atual"
     },
     {
@@ -28,7 +28,7 @@
       "department": "Biologia Celular",
       "email": "katya@ufpr.br",
       "lattes": "http://lattes.cnpq.br/9989637545815762",
-      "mandate": "",
+      "mandate": "2026",
       "status": "Atual"
     },
     {
@@ -37,7 +37,7 @@
       "department": "Bioquímica e Biologia Molecular",
       "email": "paula.lunardi@ufpr.br",
       "lattes": "http://lattes.cnpq.br/9197761617018953",
-      "mandate": "",
+      "mandate": "2026",
       "status": "Atual"
     },
     {
@@ -46,16 +46,16 @@
       "department": "Anatomia",
       "email": "veronezdal@ufpr.br",
       "lattes": "http://lattes.cnpq.br/9947917203115255",
-      "mandate": "",
+      "mandate": "2026",
       "status": "Atual"
     },
     {
-      "name": "Camila Marcon",
+      "name": "Jaqueline Carvalho de Oliveira",
       "role": "Membro",
-      "department": "Patologia Básica",
-      "email": "marconi@ufpr.br",
-      "lattes": "http://lattes.cnpq.br/2439951126870898",
-      "mandate": "",
+      "department": "Genética",
+      "email": "jaqueline.carvalho@ufpr.br",
+      "lattes": "http://lattes.cnpq.br/8730828720954911",
+      "mandate": "2026",
       "status": "Atual"
     },
     {
@@ -63,8 +63,8 @@
       "role": "Membro",
       "department": "Patologia Básica",
       "email": "tarcio.braga@ufpr.br",
-      "lattes": "",
-      "mandate": "",
+      "lattes": "http://lattes.cnpq.br/3469202845244100",
+      "mandate": "2026",
       "status": "Atual"
     }
   ],
