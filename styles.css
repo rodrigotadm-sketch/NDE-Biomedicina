@@ -1,0 +1,11 @@
+
+:root{--navy:#153b56;--blue:#2e6f9f;--ink:#17232d;--muted:#66737d;--line:#dce3e8;--bg:#f5f7f9;--soft:#eef5f9;--green:#edf6e8}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);font:15px/1.5 Arial,sans-serif;color:var(--ink)}
+#nde-app{max-width:1160px;margin:22px auto;padding:0 16px 32px}.hero{background:linear-gradient(135deg,var(--navy),var(--blue));color:#fff;padding:30px;border-radius:18px}.hero h1{margin:6px 0 7px;font-size:34px}.hero p{margin:0;opacity:.92}.eyebrow{font-size:11px;letter-spacing:.14em;font-weight:800;opacity:.82}
+.panel,.attrib,.member,.doc{background:#fff;border:1px solid var(--line);border-radius:13px}.panel{padding:17px;margin:18px 0}.section{margin:25px 0}.section h2{margin:0 0 12px;font-size:22px}
+.attrib-grid,.member-grid{display:grid;grid-template-columns:repeat(2,1fr);gap:12px}.attrib,.member{padding:15px}.attrib h3{margin:0 0 6px;color:var(--navy);font-size:17px}.attrib p{margin:0}
+.controls{display:grid;grid-template-columns:2fr 1fr;gap:10px;margin:14px 0}.controls input,.controls select{width:100%;padding:11px;border:1px solid var(--line);border-radius:9px;background:#fff}
+.member.coordinator{border-left:5px solid var(--blue)}.badges{display:flex;gap:6px;flex-wrap:wrap;margin-bottom:8px}.badge{font-size:11px;font-weight:700;padding:3px 7px;border-radius:20px;background:#dfeaf1;color:var(--navy)}.badge.status{background:var(--green);color:#47612f}
+.member h3{margin:0 0 4px;font-size:17px}.dept{font-size:12px;color:var(--muted)}.meta{margin-top:10px;font-size:13px}.actions{display:flex;gap:6px;flex-wrap:wrap;margin-top:10px}.actions a{background:var(--soft);color:var(--blue);padding:6px 8px;border-radius:7px;font-size:12px;font-weight:700;text-decoration:none}
+.docs{display:grid;gap:8px}.doc{padding:11px 13px}.doc a{color:var(--blue);font-weight:700;text-decoration:none}.empty{color:var(--muted);font-style:italic;font-size:12px}
+@media(max-width:760px){.attrib-grid,.member-grid,.controls{grid-template-columns:1fr}.hero h1{font-size:28px}}

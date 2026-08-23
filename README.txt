@@ -1,0 +1,1 @@
+Publique index.html, styles.css, app.js e nde.json na raiz de um repositório público no GitHub Pages. Atualize principalmente nde.json. Campos por membro: name, role, department, email, lattes, mandate e status.
