@@ -3,26 +3,7 @@
   "course": "Curso de Biomedicina — UFPR",
   "updated": "",
   "intro": "Conforme as Resoluções nº 75/09 e 34/11 do Conselho de Ensino, Pesquisa e Extensão (CEPE/UFPR), o Núcleo Docente Estruturante (NDE) é um órgão consultivo e propositivo, corresponsável pela elaboração, implementação e consolidação do Projeto Pedagógico do Curso de Biomedicina.",
-  "attributions": [
-    {
-      "title": "Projeto Pedagógico",
-      "text": "Participar da elaboração, implementação, acompanhamento e consolidação do Projeto Pedagógico do Curso."
-    },
-    {
-      "title": "Perfil do egresso",
-      "text": "Contribuir para a consolidação do perfil profissional do egresso do Curso de Biomedicina."
-    },
-    {
-      "title": "Integração curricular",
-      "text": "Zelar pela integração curricular interdisciplinar entre as diferentes atividades de ensino."
-    },
-    {
-      "title": "Ensino, pesquisa e extensão",
-      "text": "Fomentar linhas de pesquisa e extensão alinhadas às necessidades da graduação, do mercado de trabalho e das políticas públicas da área."
-    }
-  ],
-  "history": "No Curso de Biomedicina, uma comissão precursora com funções equivalentes às do NDE foi estabelecida em outubro de 2007, antes mesmo da aprovação e implantação oficial do curso.",
-  "members": [
+   "members": [
     {
       "name": "Jaqueline Carvalho de Oliveira",
       "role": "Coordenadora",
@@ -87,6 +68,25 @@
       "status": "Atual"
     }
   ],
+  "attributions": [
+    {
+      "title": "Projeto Pedagógico",
+      "text": "Participar da elaboração, implementação, acompanhamento e consolidação do Projeto Pedagógico do Curso."
+    },
+    {
+      "title": "Perfil do egresso",
+      "text": "Contribuir para a consolidação do perfil profissional do egresso do Curso de Biomedicina."
+    },
+    {
+      "title": "Integração curricular",
+      "text": "Zelar pela integração curricular interdisciplinar entre as diferentes atividades de ensino."
+    },
+    {
+      "title": "Ensino, pesquisa e extensão",
+      "text": "Fomentar linhas de pesquisa e extensão alinhadas às necessidades da graduação, do mercado de trabalho e das políticas públicas da área."
+    }
+  ],
+  "history": "No Curso de Biomedicina, uma comissão precursora com funções equivalentes às do NDE foi estabelecida em outubro de 2007, antes mesmo da aprovação e implantação oficial do curso.",
   "documents": [
     {
       "label": "Resolução nº 75/09 — CEPE/UFPR",
